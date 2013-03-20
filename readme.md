@@ -11,7 +11,4 @@ Buster.JS with CI WebService:
 [BuildHive]: https://buildhive.cloudbees.com/  "BuildHive: Cloud Continuous Integration"
 [Jepso CI]: https://jepso-ci.com/  "JEPSO CI"
 
-
-[![Build Status](https://secure.travis-ci.org/azu/BusterJS_TravisCI.png?branch=master)](http://travis-ci.org/azu/BusterJS_TravisCI)
-[![Build Status](https://drone.io/github.com/azu/BusterJS_TravisCI/status.png)](https://drone.io/github.com/azu/BusterJS_TravisCI/latest)
-[![Build Status](https://buildhive.cloudbees.com/job/azu/job/BusterJS_TravisCI/badge/icon)](https://buildhive.cloudbees.com/job/azu/job/BusterJS_TravisCI/)
+* [![Travis CI Build Status](https://travis-ci.org/azu/Browser_CI_as_a_Service.png?branch=master)](https://travis-ci.org/azu/Browser_CI_as_a_Service)

@@ -13,4 +13,4 @@ Buster.JS with CI WebService:
 
 * [![Travis CI Build Status](https://travis-ci.org/azu/Browser_CI_as_a_Service.png?branch=master)](https://travis-ci.org/azu/Browser_CI_as_a_Service)
 * [![drone.io Build Status](https://drone.io/github.com/azu/Browser_CI_as_a_Service/status.png)](https://drone.io/github.com/azu/Browser_CI_as_a_Service/latest)
-
+* [![BuildHive Build Status](https://buildhive.cloudbees.com/job/azu/job/Browser_CI_as_a_Service/badge/icon)](https://buildhive.cloudbees.com/job/azu/job/Browser_CI_as_a_Service/)

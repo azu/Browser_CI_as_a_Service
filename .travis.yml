@@ -1,6 +1,7 @@
 env:
   - DISPLAY=:99.0
 before_script:
+- sh -e /etc/init.d/xvfb start
 - sh -e .travis/scripts/setup_busterjs.sh
 script:
 - npm test
